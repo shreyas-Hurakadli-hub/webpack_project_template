@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/shreyas-Hurakadli-hub/webpack_project_template#readme",
   "devDependencies": {
+    "@eslint/js": "^10.0.1",
     "css-loader": "^7.1.4",
+    "eslint": "^10.11.0",
     "html-webpack-plugin": "^5.6.8",
     "style-loader": "^4.0.0",
     "webpack": "^5.109.2",
